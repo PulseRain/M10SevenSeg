@@ -12,8 +12,8 @@ SEVEN_SEG_STRUCT	KEYWORD1
 # Methods and Functions (KEYWORD2)
 #######################################
 
-init	      KEYWORD2
-onOff	      KEYWORD2
+init	KEYWORD2
+onOff	KEYWORD2
 byteHex	KEYWORD2
 decimalPoint	KEYWORD2
 
