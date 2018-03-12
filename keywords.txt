@@ -14,8 +14,8 @@ SEVEN_SEG_STRUCT	KEYWORD1
 
 init	      KEYWORD2
 onOff	      KEYWORD2
-byteHex       KEYWORD2
-decimalPoint  KEYWORD2
+byteHex	KEYWORD2
+decimalPoint	KEYWORD2
 
 #######################################
 # Instances (KEYWORD3)
